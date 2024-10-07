@@ -59,20 +59,20 @@ Readme 링크 : https://github.com/Arduino-Controller/Switch-Controller
 
 #### FPS 컨트롤러
 <a href="https://www.youtube.com/watch?v=TA9uYeHjBIk">
-    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+    <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_시연.jpg?raw=true" width=500>
 </a>
 
 ##### 배틀그라운드
 <a href="https://www.youtube.com/watch?v=TA9uYeHjBIk">
-    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+    <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_배그.jpg?raw=true" width=500>
 </a>
 ##### 팰월드
 <a href="https://www.youtube.com/watch?v=gv6XDFHCGfw">
-    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+    <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_팰월드.jpg?raw=true" width=500>
 </a>
 ##### DEBUG
 <a href="https://www.youtube.com/watch?v=hF5u_oex5pw">
-    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+    <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_디버그.jpg?raw=true" width=500>
 </a>
 
 
