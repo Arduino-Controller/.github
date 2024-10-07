@@ -27,6 +27,7 @@ Readme 링크 : https://github.com/Arduino-Controller/FPS-Controller
     <li> 세종대학교 전자정보통신공학과 정유철 - 개발
     <li> 세종대학교 기계공학과 문아영 - 개발
     <li> 세종대학교 전자정보통신공학과 황세진 - 개발
+    <li> 세종대학교 전자정보통신공학과 권하윤 - 개발 + 버그수정 + 시연영상
 </ul>
 
 #### 아두이노 컨트롤러 개발 팀 - 스위치 컨트롤러<br>
@@ -57,9 +58,23 @@ Readme 링크 : https://github.com/Arduino-Controller/Switch-Controller
 ### 컨트롤러 시연 영상
 
 #### FPS 컨트롤러
-<a href="https://youtu.be/Cs2A7J0btR0">
+<a href="https://www.youtube.com/watch?v=TA9uYeHjBIk">
     <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
 </a>
+
+##### 배틀그라운드
+<a href="https://www.youtube.com/watch?v=TA9uYeHjBIk">
+    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+</a>
+##### 팰월드
+<a href="https://www.youtube.com/watch?v=gv6XDFHCGfw">
+    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+</a>
+##### DEBUG
+<a href="https://www.youtube.com/watch?v=hF5u_oex5pw">
+    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+</a>
+
 
 #### 스위치 컨트롤러
 <a href="https://youtu.be/Cs2A7J0btR0">
